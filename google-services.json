@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "58823772874",
+    "firebase_url": "https://katoimer-1527523678454.firebaseio.com",
+    "project_id": "katoimer-1527523678454",
+    "storage_bucket": "katoimer-1527523678454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58823772874:android:7d73871e94e66651",
+        "android_client_info": {
+          "package_name": "com.katoimerrel.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58823772874-g5lct4fttrun69c7g3d7ihqd7gtiudv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.katoimerrel.app",
+            "certificate_hash": "b4ce5df412ab6051ecf5c72a9ea4272e56cb8a5b"
+          }
+        },
+        {
+          "client_id": "58823772874-dpm4edm1cme56msif9iogngte8ir9sle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.katoimerrel.app",
+            "certificate_hash": "0c71c9e78762855c449c88a8be50afc3eea33c60"
+          }
+        },
+        {
+          "client_id": "58823772874-6alcqnlce0iqge4fapr2i772gpc81ud0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASdVWUtEdMw2TsS4YXljqIKquj7MQQE_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58823772874-6alcqnlce0iqge4fapr2i772gpc81ud0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "58823772874-lr707rmku33epg74k3n55cvdeel67r9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.katoimer.app",
+                "app_store_id": "1400729383"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
